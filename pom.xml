@@ -8,7 +8,7 @@
         <version>2.1.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.jumia</groupId>
+    <groupId>org.danilopes</groupId>
     <artifactId>number</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>number</name>
